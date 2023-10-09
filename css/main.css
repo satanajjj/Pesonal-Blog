@@ -1,0 +1,22 @@
+/* Global Styles */
+body {
+    font-family: "Helvetica Neue", Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #aefffb;
+  }
+  
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    .blog-post {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+  /* Footer Styles */
+  footer {
+    background-color: #00aeff;
+    color: #808080;
+    padding: 10px;
+    text-align: center;
+  }
