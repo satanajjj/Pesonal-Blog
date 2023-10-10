@@ -1,5 +1,5 @@
-Personal Blog Project
+Personal Blog Project for FEWD nanodegree
 
-This project was made using HTML nad CSS.
+This project was made using HTML and CSS.
 
-The project can be seen by openning the index.html file in any web browser or text editor.
+The project can be seen by opening the index.html file in any web browser or text editor.
